@@ -3,16 +3,16 @@ import React from 'react';
 function Data() {
   return (
     <div className="home_data">
-        <h1 className="home_title">Sasanthi Lakmini
+        <h1 className="home_title">Sandali Kulasooriya
         </h1>
-        <h3 className="home_subtitle">IT Undergraduate</h3>
-        <p className="home_description">An enthusiastic IT undergraduate and a smart worker 
-        interested in utilizing skills and abilities to solve problems arising in the world using technology.
+        <h3 className="home_subtitle">Computer Engineering Undergraduate</h3>
+      <p className="home_description">A passionate Computer Engineering undergraduate with an interest in Software Engineering, QA testing and AI/ML.
+        I am eager to apply my skills and knowledge where I can gain invaluable experiances.
         </p>
 
         <a href="#contact" className="button button--flex">Say Hello
         <svg
-                  class="button__icon"
+                  className="button__icon"
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
                   height="24"
